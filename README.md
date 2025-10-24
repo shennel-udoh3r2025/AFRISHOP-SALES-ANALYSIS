@@ -1,6 +1,8 @@
 Project Documentation
+
 Project Title
 Sales Performance Analysis of AfriShop Limited (Branches A, B, and C) using Microsoft Excel
+
 Background
 AfriShop Limited is a fast-growing retail and distribution company in Nigeria with operations spread
 across three strategic branches (A, B, and C). Each branch records its daily sales, but management
