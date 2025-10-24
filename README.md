@@ -9,6 +9,7 @@ unified and interactive reporting system makes it difficult to track sales growt
 top-performing products, evaluate branch-level contributions, and monitor staff productivity. This
 project seeks to address these gaps by developing a sales performance analysis dashboard in
 Microsoft Excel.
+
 Objectives
 - Clean and organize raw sales data from all branches. - Perform exploratory sales analysis by
 branch, product, sales representative, and time period. - Design interactive Excel dashboards that
