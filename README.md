@@ -1,6 +1,3 @@
-Project Documentation
-
-Project Title
 Sales Performance Analysis of AfriShop Limited (Branches A, B, and C) using Microsoft Excel
 
 Background
